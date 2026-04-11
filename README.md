@@ -41,4 +41,3 @@ Just open the notebook, run the cells, and you're inside ComfyUI in minutes.
 
 ---
 
-## 🙌 If this helped you, drop a ⭐ — it keeps me motivated to share more workflows!
