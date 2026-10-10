@@ -1,0 +1,22 @@
+# Core notebook/runtime utilities
+requests>=2.31.0
+ipython>=8.0.0
+tqdm>=4.66.0
+
+# Google Colab / notebook support
+google-colab>=1.0.0
+
+# Networking / tunnel access
+pyngrok>=7.1.0
+
+# Database / ComfyUI manager compatibility
+sqlalchemy>=2.0.0
+aiosqlite>=0.20.0
+
+# Optional but useful for notebook reliability
+numpy>=1.26.0
+Pillow>=10.0.0
+
+# Keep pip stable and compatible with Colab environment
+setuptools>=68.0.0
+wheel>=0.42.0
